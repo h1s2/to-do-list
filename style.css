@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  background: #bdbdbd;
+  width: 250px;
+  margin: 50px auto;
+  align-items: center;
+}
+
+.main div {
+  text-align: center;
+  padding: 10px 10px;
+}
+
+.add {
+  height: 50px;
+}
+
+.add input {
+  height: 100%;
+}
+
+.add button {
+  height: 100%;
+}
+
+#list {
+  min-height: 150px;
+}
+
+.strike {
+  text-decoration: line-through;
+}
